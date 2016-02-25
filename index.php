@@ -28,7 +28,10 @@
 			<h2>Weather information</h2>
 			<div class="row">
 				<h4 id="location"></h4> 
-				<h4 id="temp"></h4> 
+				<h4 id="temp"></h4>
+				<h4 id="humidity"></h4>
+				<h4 id="pressure"></h4>
+				<h4 id="wind"></h4>
 					<h4 id="weatherInfo"> </h4>
 			</div>
 			<div class="row">
